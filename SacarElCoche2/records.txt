@@ -1,0 +1,12 @@
+Puntos nivel: 1 = 0
+Puntos nivel: 2 = 16
+Puntos nivel: 3 = 1
+Puntos nivel: 4 = 0
+Puntos nivel: 5 = 0
+Puntos nivel: 6 = 0
+Puntos nivel: 7 = 0
+Puntos nivel: 8 = 0
+Puntos nivel: 9 = 0
+Puntos nivel: 10 = 0
+Puntos nivel: 11 = 0
+Puntos nivel: 12 = 0
